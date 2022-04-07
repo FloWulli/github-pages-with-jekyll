@@ -1,5 +1,5 @@
 ---
-title: First post on this blog!
+title: "First post on this blog!"
 date: 2022-04-07
 ---
 
